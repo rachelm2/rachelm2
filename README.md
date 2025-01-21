@@ -1,7 +1,7 @@
 ---
 layout: lab-member
 title: Rachel McCombs
-img:
+img: ![RachelMcCombsHeadshot](https://github.com/user-attachments/assets/6b240069-d6d1-4c52-9cbc-251b6ee7ac44)
 categories: lab-member-current
 ---
 
